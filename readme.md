@@ -56,7 +56,8 @@ pip install opencv-python numpy
 
 Execute the Python script to start face detection using the photo.
 
-The program will open a window displaying the webcam feed, and it will automatically detect faces in real-time.
+The program will open a window displaying image feed, and it will automatically detect faces in real-time.
 
 
-python face_detection.py
+python face_detection.py  
+(Run .py file)
